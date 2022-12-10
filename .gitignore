@@ -131,3 +131,7 @@ dmypy.json
 notes/*
 !notes/graph-neural-network.pdf
 !notes/README.md
+
+presentation/*
+!presentation/gnn.pdf
+!presentation/README.md
