@@ -137,3 +137,4 @@ presentation/*
 !presentation/README.md
 codes/*
 books/*
+.gitignore
