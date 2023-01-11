@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 notes/*
-!notes/graph-neural-network.pdf
+!notes/geometric-deep-learning.pdf
 !notes/README.md
 
 presentation/*
